@@ -1,4 +1,4 @@
-export const OrangHrm_locators = {
+export const OrangeHrm_locators = {
 
   OrangePage: (page) => {
     return page.locator('.orangehrm-login-layout-blob');
